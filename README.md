@@ -1,4 +1,4 @@
 mythnuv2mkv
 ===========
 
-Script for exporting MythTv Recordings. Repository created for maintained script.
+Script for exporting MythTv Recordings. Repository created for unmaintained script.
